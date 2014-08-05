@@ -1,0 +1,6 @@
+c:\users\eric\documents\visual studio 2012\Projects\StaticMembers\StaticMembers\bin\Debug\StaticMembers.exe.config
+c:\users\eric\documents\visual studio 2012\Projects\StaticMembers\StaticMembers\obj\Debug\StaticMembers.csprojResolveAssemblyReference.cache
+c:\users\eric\documents\visual studio 2012\Projects\StaticMembers\StaticMembers\bin\Debug\StaticMembers.exe
+c:\users\eric\documents\visual studio 2012\Projects\StaticMembers\StaticMembers\bin\Debug\StaticMembers.pdb
+c:\users\eric\documents\visual studio 2012\Projects\StaticMembers\StaticMembers\obj\Debug\StaticMembers.exe
+c:\users\eric\documents\visual studio 2012\Projects\StaticMembers\StaticMembers\obj\Debug\StaticMembers.pdb
